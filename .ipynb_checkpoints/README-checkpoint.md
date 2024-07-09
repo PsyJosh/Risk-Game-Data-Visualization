@@ -1,4 +1,4 @@
-# Risk-Game-Data-Visualization
+# Risk Game Data Visualization
 The objective of this project is to analyze dice roll information from the board game Risk. This project will pull from a particular format of data provided in a Google Sheet and process the data into a clean, readable PDF format.
 
 *include sample link to Google Sheet.*
